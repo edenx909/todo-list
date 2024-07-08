@@ -1,0 +1,12 @@
+h1, div {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #3f3f3f00 ;
+}
+ol {
+    list-style: square;
+
+}
